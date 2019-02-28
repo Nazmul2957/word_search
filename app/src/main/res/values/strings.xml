@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Public Administration Ministry</string>
+    <string name="publicadminis">জনপ্রশাসন মন্ত্রনালয়</string>
+    <string name="ministry">গনপ্রজাতন্রি বাংলাদেশ সরকার</string>
+    <string name="suddho">শুদ্ধ </string>
+    <string name="asuddhho">অশুদ্ধ </string>
+    <string name="search">কিছু খুঁজুন</string>
+    <string name="serial">ক্র</string>
+</resources>
